@@ -1,0 +1,3 @@
+s="12.34"
+f=float(s)
+print("float string :",f)
