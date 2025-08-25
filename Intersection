@@ -1,0 +1,4 @@
+set1 = {1,2,3,4,5,}
+set2 = {8,6,4,7,5}
+intersection =set1.intersection(set2)
+print("intersection of set1 and set2 :",intersection)
